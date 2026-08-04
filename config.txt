@@ -2,3 +2,4 @@
   "AadSecret": "ztk8Q~kRVZ_5NbQdH0EYDefBgo1ustvfUXv7qa4x",
   "AadTenantDomain": "mckessonqa.onmicrosoft.com",
   "AadTenantId": "4a5a79a2-e856-4f81-b23e-1ebd938231d1",
+  "AadSecret": "ztk8Q~kRVZ_5NbQdH0EYDefBgo1ustvfUXv7qa4x",
